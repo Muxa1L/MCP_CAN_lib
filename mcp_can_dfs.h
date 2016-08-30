@@ -281,6 +281,10 @@
 #define MCP_8MHz_40kBPS_CFG2 (0xBF)
 #define MCP_8MHz_40kBPS_CFG3 (0x87)
 
+#define MCP_8MHz_33k33BPS_CFG1 (0x45) 
+#define MCP_8MHz_33k33BPS_CFG2 (0xBA)
+#define MCP_8MHz_33k33BPS_CFG3 (0x87)
+
 #define MCP_8MHz_31k25BPS_CFG1 (0x07)
 #define MCP_8MHz_31k25BPS_CFG2 (0xA4)
 #define MCP_8MHz_31k25BPS_CFG3 (0x84)
